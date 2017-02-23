@@ -1,6 +1,6 @@
 Name     : jdk-htmlunit-core-js
 Version  : core.js.2.17
-Release  : 1
+Release  : 2
 URL      : https://github.com/HtmlUnit/htmlunit-core-js/archive/core-js-2.17.tar.gz
 Source0  : https://github.com/HtmlUnit/htmlunit-core-js/archive/core-js-2.17.tar.gz
 Source1  : https://github.com/HtmlUnit/htmlunit-rhino-fork/archive/ef0faa3e34ef6c3b42c1be4474d0252d96eb4535/htmlunit-rhino-fork-ef0faa3e34ef6c3b42c1be4474d0252d96eb4535.tar.gz
